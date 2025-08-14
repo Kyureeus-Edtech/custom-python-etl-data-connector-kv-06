@@ -54,7 +54,12 @@ https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.j
 
 ## Installation
 
-1. **Clone the repository and open the folder**
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/Kyureeus-Edtech/custom-python-etl-data-connector-kv-06.git
+cd custom-python-etl-data-connector-kv-06
+```
 
 2. **Install dependencies**
 
