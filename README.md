@@ -54,12 +54,7 @@ https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.j
 
 ## Installation
 
-1. **Clone the repository**
-
-```bash
-git clone <your_repo_url>
-cd <your_repo_folder>
-```
+1. **Clone the repository and open the folder**
 
 2. **Install dependencies**
 
